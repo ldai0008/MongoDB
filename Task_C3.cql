@@ -3,11 +3,7 @@
   Unitcode   :FIT5137
   Student Id :30759277
 */
-/*
-  Name       :Yao Wang 
-  Unitcode   :FIT5137
-  Student Id :26250659
-*/
+
 //////////////////////////
 //        C3        //
 //////////////////////////
